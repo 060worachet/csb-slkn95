@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://060worachet.github.io/csb-slkn95/static/js/main.608c0773.chunk.js",
+    "main.js.map": "https://060worachet.github.io/csb-slkn95/static/js/main.608c0773.chunk.js.map",
+    "runtime-main.js": "https://060worachet.github.io/csb-slkn95/static/js/runtime-main.1f441373.js",
+    "runtime-main.js.map": "https://060worachet.github.io/csb-slkn95/static/js/runtime-main.1f441373.js.map",
+    "static/js/2.d9cdf610.chunk.js": "https://060worachet.github.io/csb-slkn95/static/js/2.d9cdf610.chunk.js",
+    "static/js/2.d9cdf610.chunk.js.map": "https://060worachet.github.io/csb-slkn95/static/js/2.d9cdf610.chunk.js.map",
+    "index.html": "https://060worachet.github.io/csb-slkn95/index.html",
+    "static/js/2.d9cdf610.chunk.js.LICENSE.txt": "https://060worachet.github.io/csb-slkn95/static/js/2.d9cdf610.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f441373.js",
+    "static/js/2.d9cdf610.chunk.js",
+    "static/js/main.608c0773.chunk.js"
+  ]
+}
